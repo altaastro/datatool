@@ -1,0 +1,4 @@
+# Путь к загружаемому файлу
+file_path: filename
+# Адрес эндпойнта, принимающего файл
+server_url: http://localhost:8080/upload
