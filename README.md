@@ -19,7 +19,7 @@
 
 ## Установка
 ```
-git clone https://bitbucket.org/amahachi/datatool.git
+git clone https://github.com/altaastro/datatool.git
 cd datatool
 go build -o datatool ./cmd/main.go
 ```
